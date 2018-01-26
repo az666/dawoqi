@@ -1,3 +1,2 @@
 # test
-第一个测试仓库
-6666
+个人站点 https://az666.github.io/
